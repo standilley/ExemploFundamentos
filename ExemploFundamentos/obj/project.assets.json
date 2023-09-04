@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ProjetosVscode\\ExemploFundamentos\\ExemploFundamentos\\ExemploFundamentos.csproj",
+      "projectUniqueName": "c:\\ProjetosVscode\\ExemploFundamentos\\ExemploFundamentos\\ExemploFundamentos.csproj",
       "projectName": "ExemploFundamentos",
-      "projectPath": "C:\\ProjetosVscode\\ExemploFundamentos\\ExemploFundamentos\\ExemploFundamentos.csproj",
+      "projectPath": "c:\\ProjetosVscode\\ExemploFundamentos\\ExemploFundamentos\\ExemploFundamentos.csproj",
       "packagesPath": "C:\\Users\\Standilley-Dev\\.nuget\\packages\\",
-      "outputPath": "C:\\ProjetosVscode\\ExemploFundamentos\\ExemploFundamentos\\obj\\",
+      "outputPath": "c:\\ProjetosVscode\\ExemploFundamentos\\ExemploFundamentos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -59,8 +59,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\ProjetosVscode\\ExemploFundamentos\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj": {
-              "projectPath": "C:\\ProjetosVscode\\ExemploFundamentos\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj"
+            "c:\\ProjetosVscode\\ExemploFundamentos\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj": {
+              "projectPath": "c:\\ProjetosVscode\\ExemploFundamentos\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj"
             }
           }
         }
