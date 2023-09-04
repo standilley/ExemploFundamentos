@@ -1,0 +1,15 @@
+C:\Users\Standilley-Dev\Documents\ProjetosVscode\ExemploFundamentos\ExemploFundamentos.NET7\bin\Debug\net7.0\ExemploFundamentos.NET7.exe
+C:\Users\Standilley-Dev\Documents\ProjetosVscode\ExemploFundamentos\ExemploFundamentos.NET7\bin\Debug\net7.0\ExemploFundamentos.NET7.deps.json
+C:\Users\Standilley-Dev\Documents\ProjetosVscode\ExemploFundamentos\ExemploFundamentos.NET7\bin\Debug\net7.0\ExemploFundamentos.NET7.runtimeconfig.json
+C:\Users\Standilley-Dev\Documents\ProjetosVscode\ExemploFundamentos\ExemploFundamentos.NET7\bin\Debug\net7.0\ExemploFundamentos.NET7.dll
+C:\Users\Standilley-Dev\Documents\ProjetosVscode\ExemploFundamentos\ExemploFundamentos.NET7\bin\Debug\net7.0\ExemploFundamentos.NET7.pdb
+C:\Users\Standilley-Dev\Documents\ProjetosVscode\ExemploFundamentos\ExemploFundamentos.NET7\obj\Debug\net7.0\ExemploFundamentos.NET7.csproj.AssemblyReference.cache
+C:\Users\Standilley-Dev\Documents\ProjetosVscode\ExemploFundamentos\ExemploFundamentos.NET7\obj\Debug\net7.0\ExemploFundamentos.NET7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Standilley-Dev\Documents\ProjetosVscode\ExemploFundamentos\ExemploFundamentos.NET7\obj\Debug\net7.0\ExemploFundamentos.NET7.AssemblyInfoInputs.cache
+C:\Users\Standilley-Dev\Documents\ProjetosVscode\ExemploFundamentos\ExemploFundamentos.NET7\obj\Debug\net7.0\ExemploFundamentos.NET7.AssemblyInfo.cs
+C:\Users\Standilley-Dev\Documents\ProjetosVscode\ExemploFundamentos\ExemploFundamentos.NET7\obj\Debug\net7.0\ExemploFundamentos.NET7.csproj.CoreCompileInputs.cache
+C:\Users\Standilley-Dev\Documents\ProjetosVscode\ExemploFundamentos\ExemploFundamentos.NET7\obj\Debug\net7.0\ExemploFundamentos.NET7.dll
+C:\Users\Standilley-Dev\Documents\ProjetosVscode\ExemploFundamentos\ExemploFundamentos.NET7\obj\Debug\net7.0\refint\ExemploFundamentos.NET7.dll
+C:\Users\Standilley-Dev\Documents\ProjetosVscode\ExemploFundamentos\ExemploFundamentos.NET7\obj\Debug\net7.0\ExemploFundamentos.NET7.pdb
+C:\Users\Standilley-Dev\Documents\ProjetosVscode\ExemploFundamentos\ExemploFundamentos.NET7\obj\Debug\net7.0\ExemploFundamentos.NET7.genruntimeconfig.cache
+C:\Users\Standilley-Dev\Documents\ProjetosVscode\ExemploFundamentos\ExemploFundamentos.NET7\obj\Debug\net7.0\ref\ExemploFundamentos.NET7.dll
